@@ -1,4 +1,4 @@
-# Quest
+# Questo
 
 Quest is an AI-powered employee task and progress management system built with Google Sheets and Google Apps Script.
 
